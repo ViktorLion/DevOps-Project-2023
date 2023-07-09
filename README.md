@@ -83,3 +83,6 @@ Then the response status code should be 200
 And the response format should be JSON 
 
 And the response should contain a log entry 
+
+### Presentation video
+https://youtu.be/_MTZsOQCPnc
